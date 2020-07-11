@@ -2,7 +2,7 @@
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
-- UI Kit: **Adminator** (Free Version) provided by **ColorLib**
+- UI Kit: **Adminator** (Free Version) provided by **[ColorLib](https://appseed.us/agency/colorlib)**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
