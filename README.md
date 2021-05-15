@@ -19,8 +19,8 @@ Adminator is a responsive Bootstrap 4 Admin Template. It provides you with a col
 > Links
 
 - [Django Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - product page
-- [Django Adminator Demo](https://django-adminator.appseed-srv1.com/) - LIVE App
-- [Django Tutorial](https://github.com/app-generator/tutorial-django) - Getting started with Django
+- [Django Adminator](https://django-adminator.appseed-srv1.com/) - LIVE deployment
+- [Django Adminator](https://docs.appseed.us/products/django-dashboards/adminator) - product documentation
 
 <br />
 
