@@ -37,11 +37,13 @@
             <label class="text-normal text-dark">Username</label>
             {{ form.username }}
           </div>
+          <span class="text-error">{{ form.username.errors }}</span>
 
           <div class="form-group">
             <label class="text-normal text-dark">Password</label>
             {{ form.password }}
           </div>
+          <span class="text-error">{{ form.password.errors }}</span>
 
           <div class="form-group">
             <div class="peers ai-c jc-sb fxw-nw">
