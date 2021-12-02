@@ -44,7 +44,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![Django Dashboard Adminator - Starter project coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminator/master/media/django-dashboard-adminator-screen.png)
+![Django Dashboard Adminator - Starter project coded in Django.](https://user-images.githubusercontent.com/51070104/144366800-e15c5033-52e5-444c-a8eb-65d51bd428bf.gif)
 
 <br />
 
