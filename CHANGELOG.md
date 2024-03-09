@@ -1,9 +1,15 @@
 # Change Log
 
-## [1.0.4] 2022-08-11
-### Improvements
+## [1.0.5] 2024-03-09
+### Changes
 
-- Bumop UI: Use Gulp-Generated version
+- Update [Custom Development](https://appseed.us/custom-development/) Section
+  - New Pricing: `$3,999`
+  
+## [1.0.4] 2022-08-11
+### Changes
+
+- Bump UI: Use Gulp-Generated version
   - [Adminator](https://github.com/app-generator/adminator) **v2.0.3**
 
 ## [1.0.3] 2022-06-11
