@@ -211,4 +211,4 @@ The project is coded using a simple and intuitive structure presented below:
 <br />
 
 ---
-Adminator [Django](https://app-generator.dev/admin-dashboards/django/) Integration - Open-Source **Django** Starter provided by [App Generator](https://app-generator.dev)
+**Adminator [Django](https://app-generator.dev/admin-dashboards/django/) Integration** - Open-Source **Django** Starter provided by [App Generator](https://app-generator.dev).
